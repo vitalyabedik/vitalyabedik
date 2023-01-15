@@ -16,7 +16,7 @@
 
 - 🔎 I’m looking for a job as Front-End Developer
 
-- 💻 I’m currently learning on [Redev Education](https://www.instagram.com/redev_courses/?ysclid=lcx7m667t889361720) and [RS School](https://rs.school/)
+- 💻 I’m currently learning in [Redev Education](https://www.instagram.com/redev_courses/?ysclid=lcx7m667t889361720) and [RS School](https://rs.school/)
 
 - 📖 I'm learn something new every day
 
