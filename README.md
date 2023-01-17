@@ -16,7 +16,7 @@
 
 - 🔎 I’m looking for a job as Front-End Developer
 
-- 💻 I’m currently learning in [Redev Education](https://www.instagram.com/redev_courses/?ysclid=lcx7m667t889361720) and [RS School](https://rs.school/)
+- 💻 I’m currently learning in [Redev Education](https://www.instagram.com/redev_courses/?ysclid=lcx7m667t889361720)
 
 - 📖 I'm learn something new every day
 
@@ -32,27 +32,22 @@
 <details><summary><b> HTML5/SCSS </b></summary>
   <ul>
      <li>
-      <a href="https://vitalyabedik.github.io/Redev.HTML-CSS.Final-project/">Beauty shop</a>
+      <a href="https://vitalyabedik.github.io/Redev.HTML-CSS.Final-project/">Beauty shop - Redev project</a>
      </li>
      <li>
-      <a href="https://vitalyabedik.github.io/rsschool-cv/">CV RS School</a>
+      <a href="https://rolling-scopes-school.github.io/vitalyabedik-JSFEPRESCHOOL2022Q4/plants/">Plants - RS School project</a>
+     </li>
+     <li>
+      <a href="https://vitalyabedik.github.io/rsschool-cv/">CV RS School - RS School project</a>
      </li>
   </ul>
 </details>
-
-<details><summary><b> HTML5/SCSS/JS </b></summary>
-  <ul>
-     <li>
-      <a href="https://rolling-scopes-school.github.io/vitalyabedik-JSFEPRESCHOOL2022Q4/plants/">Plants</a>
-     </li>
-  </ul>
-</details>
-
+  
 <details>
 <summary><b> React/Redux/JS </b></summary>
   <ul>
      <li>
-      <a href="https://vitalyabedik.github.io/weather-test/">Weather app</a>
+      <a href="https://vitalyabedik.github.io/weather-test/">Weather app - test-task project</a>
      </li>
   </ul>
 </details>
