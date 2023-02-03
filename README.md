@@ -58,59 +58,24 @@
 
 ---
   
-<!-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)  -->
-
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="css3" width="40" height="40"> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html5" width="40" height="40"> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" width="40" height="40"> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="40" height="40"> 
-</a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="redux" width="40" height="40"/>    
-</a> 
-<a href="https://ant.design/" target="_blank" rel="noreferrer"> 
-  <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="ant-design" width="40" height="40"/> 
-</a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/374061/sass.svg" alt="sass" width="40" height="40"/> 
-</a> 
-<a href="https://github.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/354552/webpack.svg" alt="webpack" width="40" height="40"/> 
-</a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vs-code" width="40" height="40"/> 
-</a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="figma" width="40" height="40"/> 
-</a> 
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452077/npm.svg" alt="npm" width="40" height="40"/> 
-</a> 
-</p>
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)  
 
 <!-- stats -->
 
