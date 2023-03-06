@@ -16,7 +16,7 @@
 
 - 🔎 I’m looking for a job as Front-End Developer
 
-- 📖 I’m currently learning in [Redev Education](https://www.instagram.com/redev_courses/?ysclid=lcx7m667t889361720)
+- 📖 I’m learning something new every day 
 
 - 📧 How to reach me vitalya.bedik@gmail.com
 </div>
