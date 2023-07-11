@@ -38,12 +38,27 @@
      </li>
   </ul>
 </details>
-  
+
 <details>
-<summary><b> React/Redux/JS </b></summary>
+<summary><b> React/Redux/TS/JS </b></summary>
   <ul>
+    <li>
+        <a href="https://vitalyabedik.github.io/Portfolio/">My portfolio</a>
+     </li>
      <li>
-      <a href="https://vitalyabedik.github.io/weather-test/">Weather app - test-task project</a>
+        <a href="https://vitalyabedik.github.io/weather-test/">Weather app - test-task project</a>
+     </li>
+      <li>
+        <a href="https://vitalyabedik.github.io/it-incubator.samurai-way/">Social Network</a>
+     </li>
+      <li>
+        <a href="https://vitalyabedik.github.io/it-incubator.samurai-way/">Social Network</a>
+     </li>
+      <li>
+        <a href="https://vitalyabedik.github.io/Counter/">Counter</a>
+     </li>
+      <li>
+        <a href="https://vitalyabedik.github.io/Redev.React.1-project.React-cheatsheet/">React Cheat Sheet</a>
      </li>
   </ul>
 </details>
