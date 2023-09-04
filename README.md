@@ -26,7 +26,7 @@
 ### 💼 My projects:
 
 <details>
-<summary><b> React/Redux/TS/JS </b></summary>
+<summary><b> React/Redux/TS/JS/Styled components </b></summary>
   <ul>
     <li>
         <a href="https://vitalyabedik.github.io/Portfolio/">My portfolio</a>
@@ -36,6 +36,9 @@
      </li>
       <li>
         <a href="https://vitalyabedik.github.io/it-incubator.samurai-way/">Social Network</a>
+     </li>
+     <li>
+        <a href="https://vitalyabedik.github.io/NFT-creative-art/">NFT-creative-art</a>
      </li>
       <li>
         <a href="https://vitalyabedik.github.io/Counter/">Counter</a>
