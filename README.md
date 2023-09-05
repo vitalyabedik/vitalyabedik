@@ -1,8 +1,7 @@
 <!-- Intro -->
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">, I'm Vitaly Bedik</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">, My name is Vitaly Bedik</h1>
 <h2 align="center">Front-End Developer from Belarus
-
 <br>
 
 <!-- about me -->
@@ -14,11 +13,11 @@
 
 <div align="left">
 
-- 🔎 I’m looking for a job as Front-End Developer
-
+- 🌍 I'm based in Soligorsk
+- 🖥️ Most of my projects are available on [my portfolio website.](https://vitalyabedik.github.io/Portfolio/)
 - 📖 I’m learning something new every day 
-
-- 📧 How to reach me vitalya.bedik@gmail.com
+- ✉️ You can contact me at [vitalya.bedik@gmail.com](mailto:vitalya.bedik@gmail.com) 
+- 🤝 I'm open to collaborating on interesting projects
 </div>
 
 <!-- projects -->
@@ -105,12 +104,25 @@
   
 <!-- stats -->
 
-<!-- ### 🔥 My stats:
+ ### 🔥 My stats:
+
+<h3 align="center">Most Used Languages</h3>
+
+<div align="center">
+   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitalyabedik&theme=tokyonight)
+  
+</div>
+
+<h3 align="center">Stats</h3>
+
+<div align="center"> 
+   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalyabedik&theme=tokyonight)
+
+</div>
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=vitalyabedik&show_icons=true" height="140px"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalyabedik&layout=compact" height="140px"/> -->
 
 <!-- codewars -->
 
@@ -118,6 +130,3 @@
 
 [![codewars](https://www.codewars.com/users/vitaly_bedik/badges/large)](https://www.codewars.com/users/rsschool_386616221cc3b759)
 
----
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vitalyabedik)
