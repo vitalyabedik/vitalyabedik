@@ -30,11 +30,17 @@
     <li>
         <a href="https://vitalyabedik.github.io/Portfolio/">My portfolio</a>
      </li>
-     <li>
-        <a href="https://vitalyabedik.github.io/weather-test/">Weather app - test-task project</a>
+    <li>
+        <a href="https://flashcards-learning.vercel.app/">Flashcards</a>
+     </li>
+      <li>
+        <a href="https://vitalyabedik.github.io/it-incubator.todolist-learning/">Expanded Notes List</a>
      </li>
       <li>
         <a href="https://vitalyabedik.github.io/it-incubator.samurai-way/">Social Network</a>
+     </li>
+       <li>
+        <a href="https://vitalyabedik.github.io/weather-test/">Weather app - test-task project</a>
      </li>
       <li>
         <a href="https://vitalyabedik.github.io/Counter/">Counter</a>
