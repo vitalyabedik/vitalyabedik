@@ -1,6 +1,6 @@
 <!-- Intro -->
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">, My name is Vitaly Bedik</h1>
+<h1 align="center">Hi there 👋, My name is Vitaly Bedik</h1>
 <h2 align="center">Front-End Developer from Belarus
 <br>
 
