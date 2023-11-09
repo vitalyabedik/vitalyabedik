@@ -34,19 +34,19 @@
         <a href="https://flashcards-learning.vercel.app/">Flashcards</a>
      </li>
       <li>
-        <a href="https://vitalyabedik.github.io/it-incubator.todolist-learning/">Expanded Notes List</a>
+        <a href="https://vitalyabedik.github.io/task-manager/">Task Manager</a>
      </li>
       <li>
-        <a href="https://vitalyabedik.github.io/it-incubator.samurai-way/">Social Network</a>
+        <a href="https://vitalyabedik.github.io/socialite/">Socialite</a>
      </li>
        <li>
-        <a href="https://vitalyabedik.github.io/weather-test/">Weather app - test-task project</a>
+        <a href="https://vitalyabedik.github.io/weather-notes/">Weather and notes</a>
+     </li>
+      <li>
+        <a href="https://vitalyabedik.github.io/react-cheatsheet/">React Cheatsheet</a>
      </li>
       <li>
         <a href="https://vitalyabedik.github.io/Counter/">Counter</a>
-     </li>
-      <li>
-        <a href="https://vitalyabedik.github.io/Redev.React.1-project.React-cheatsheet/">React Cheat Sheet</a>
      </li>
   </ul>
 </details>
@@ -57,13 +57,13 @@
         <a href="https://vitalyabedik.github.io/NFT-creative-art/">NFT-creative-art</a>
      </li>
      <li>
-      <a href="https://vitalyabedik.github.io/Redev.HTML-CSS.Final-project/">Beauty shop - Redev project</a>
+      <a href="https://vitalyabedik.github.io/beauty-shop/">Beauty shop</a>
      </li>
      <li>
-      <a href="https://rolling-scopes-school.github.io/vitalyabedik-JSFEPRESCHOOL2022Q4/plants/">Plants - RS School project</a>
+      <a href="https://rolling-scopes-school.github.io/vitalyabedik-JSFEPRESCHOOL2022Q4/plants/">Plants</a>
      </li>
      <li>
-      <a href="https://vitalyabedik.github.io/rsschool-cv/">CV RS School - RS School project</a>
+      <a href="https://vitalyabedik.github.io/rsschool-cv/">CV RS School</a>
      </li>
   </ul>
 </details>
