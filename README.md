@@ -42,12 +42,6 @@
        <li>
         <a href="https://vitalyabedik.github.io/weather-notes/">Weather and notes</a>
      </li>
-      <li>
-        <a href="https://vitalyabedik.github.io/react-cheatsheet/">React Cheatsheet</a>
-     </li>
-      <li>
-        <a href="https://vitalyabedik.github.io/Counter/">Counter</a>
-     </li>
   </ul>
 </details>
 
