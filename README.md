@@ -27,12 +27,12 @@
 <details>
 <summary><b> React/Redux/TS/JS </b></summary>
   <ul>
-    <li>
-        <a href="https://vitalyabedik.github.io/Portfolio/">My portfolio</a>
-     </li>
-    <li>
+      <li>
         <a href="https://flashcards-learning.vercel.app/">Flashcards</a>
      </li>
+       <li>
+        <a href="https://skytube.vercel.app/">Skytube</a>
+       </li>
       <li>
         <a href="https://vitalyabedik.github.io/task-manager/">Task Manager</a>
      </li>
