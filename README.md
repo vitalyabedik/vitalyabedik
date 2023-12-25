@@ -34,6 +34,9 @@
         <a href="https://skytube.vercel.app/">Skytube</a>
        </li>
       <li>
+        <a href="https://hacker-news-bice.vercel.app/">Hacker news</a>
+       </li>
+      <li>
         <a href="https://vitalyabedik.github.io/task-manager/">Task Manager</a>
      </li>
       <li>
