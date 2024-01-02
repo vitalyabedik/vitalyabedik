@@ -48,7 +48,7 @@
   </ul>
 </details>
 
-<details><summary><b> Styled components/HTML5/SCSS </b></summary>
+<details><summary><b>Layouts</b></summary>
   <ul>
      <li>
         <a href="https://vitalyabedik.github.io/NFT-creative-art/">NFT-creative-art</a>
