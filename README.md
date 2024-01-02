@@ -25,7 +25,7 @@
 ### 💼 My projects:
 
 <details>
-<summary><b> React/Redux/TS/JS </b></summary>
+<summary><b> React </b></summary>
   <ul>
       <li>
         <a href="https://flashcards-learning.vercel.app/">Flashcards</a>
