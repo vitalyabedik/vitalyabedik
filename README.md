@@ -59,9 +59,6 @@
      <li>
       <a href="https://rolling-scopes-school.github.io/vitalyabedik-JSFEPRESCHOOL2022Q4/plants/">Plants</a>
      </li>
-     <li>
-      <a href="https://vitalyabedik.github.io/rsschool-cv/">CV RS School</a>
-     </li>
   </ul>
 </details>
 
