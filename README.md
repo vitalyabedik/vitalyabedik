@@ -127,12 +127,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalyabedik&theme=tokyonight)
 
 </div>
-
----
-
-<!-- codewars -->
-
-### 📈 Codewars:
-
-[![codewars](https://www.codewars.com/users/vitaly_bedik/badges/large)](https://www.codewars.com/users/rsschool_386616221cc3b759)
-
